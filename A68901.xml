@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Aduise and answer of my lord ye Prince of Orenge, cou[n]tie Nassau &amp;c. and of ye states of Holland and Zeland, made by the Estates Generall on thisside [sic], vpon the articles conceiued and and [sic] after concluded and accorded in fourm of a pertuall [sic] edict between Lord Don Iohn Duke of Austrich, knight of the Order of the Golde[n] Fleece of the part and in the name of the Catholick king of Spaine of the one partie, and the said Generall Estates of the other. Translated out of Dutch into English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68901</idno>
+            <idno type="STC">STC 25710.5</idno>
+            <idno type="STC">ESTC S106389</idno>
+            <idno type="EEBO-CITATION">24147095</idno>
+            <idno type="OCLC">ocm 24147095</idno>
+            <idno type="VID">6734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 738:23 or 1844:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Aduise and answer of my lord ye Prince of Orenge, cou[n]tie Nassau &amp;c. and of ye states of Holland and Zeland, made by the Estates Generall on thisside [sic], vpon the articles conceiued and and [sic] after concluded and accorded in fourm of a pertuall [sic] edict between Lord Don Iohn Duke of Austrich, knight of the Order of the Golde[n] Fleece of the part and in the name of the Catholick king of Spaine of the one partie, and the said Generall Estates of the other. Translated out of Dutch into English.</title>
+                  <author>William I, Prince of Orange, 1533-1584.</author>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Iugge and Iohn Allde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1577]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Doon at Middelborough the 19. of February. 1577.</note>
+                  <note>Signatures: A⁸ (last leaf blank).</note>
+                  <note>Imperfect: copy at reel 1844:37 has print show-through.</note>
+                  <note>Reproductions of originals in the Folger Shakespeare Library (reel 738) and Lambeth Palace Library (1844).</note>
+                  <note>Identified as STC 25709 at reel 738:23 (number changed in STC 2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648.</term>
+               <term>Spain --  History --  Philip II, 1556-1598.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:6734:1"/>
+            <pb facs="tcp:6734:1" rendition="simple:additions"/>
+            <p>¶ The Aduiſe and anſwer of my Lord y<hi rend="sup">e</hi> Prince <hi>of Orenge, Cou<g ref="char:cmbAbbrStroke">̄</g>tie Naſſau &amp;c.</hi> and of y<hi rend="sup">e</hi> States of Holland and <hi>Zeland, made by the Eſtates generall</hi> on thiſſide, vpon the Articles co<g ref="char:cmbAbbrStroke">̄</g>ceiued and and after concluded and accorded<g ref="char:punc">▪</g> 
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n fourm of a pertuall</hi> Edict betwéen Lord <hi>Don Iohn</hi> Duke of <hi>Auſtrich,</hi> Kni<g ref="char:EOLhyphen"/>ght of y<hi rend="sup">e</hi> Order of the Golde<g ref="char:cmbAbbrStroke">̄</g> Fleece of the part and in the name of the Catholick king of Spaine of the one pa<g ref="char:EOLhyphen"/>rtie / and the ſaid generall Eſtates of the other.</p>
+            <p>Tranſlated out of Dutch into Engliſh,</p>
+            <p>Imprinted at London by Iohn Iugge and Iohn Allde.</p>
+            <pb facs="tcp:6734:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:6734:2"/>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord the Prince of <hi>Ore<g ref="char:cmbAbbrStroke">̄</g>ge</hi> and the ſtates of <hi>Holland</hi> and <hi>Zeland,</hi> hauing ſee<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> credible let<g ref="char:EOLhyphen"/>terꝭ ſe<g ref="char:cmbAbbrStroke">̄</g>t fro<g ref="char:cmbAbbrStroke">̄</g> my Lords the generall ſtates of the lowe countries, by my Lord of <hi>VViller<g ref="char:EOLhyphen"/>ſall,</hi> and Maiſter <hi>Paule Bays</hi> Aduocate of <hi>Holland,</hi> In company of my Lord the Amba<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſador from the Emperour, and therunto béeing erneſtly requeſted, to be brought ouer vnto the aforeſaid Lord and Prince, and hauing vnderſtood ther by that the aforſaid Lords and ſtates de<g ref="char:EOLhyphen"/>ſtred to haue their aduice vppo<g ref="char:cmbAbbrStroke">̄</g> any Arti<g ref="char:EOLhyphen"/>cle concluded on, by manner of an euer<g ref="char:EOLhyphen"/>laſting Edict, in the name of the King, and confirmation of the peace, béeing be<g ref="char:EOLhyphen"/>twéen the lands ouer and on this ſide, and <hi>Do<g ref="char:cmbAbbrStroke">̄</g> Iohn</hi> of <hi>Eaſtenrick.</hi> The which Articles hauing been wholy ſhewed vnto them, hauing aunſwered, and doo anſwer the ſame which heerafter foloweth.</p>
+            <p>That is to ſay. At the ſight of the afor<g ref="char:EOLhyphen"/>ſaid Articles, they cannot leaue but com<g ref="char:EOLhyphen"/>mend the erneſt zele and great deſire which y<hi rend="sup">e</hi> aforſaid Lordꝭ &amp; ſtates, doo ſhewe to haue, in ſetting again our poore diſtre<g ref="char:EOLhyphen"/>ſſed natiue Countrey, in his perfect quiet<g ref="char:EOLhyphen"/>nes,
+<pb facs="tcp:6734:3"/> and peace which hath long time béen wiſhed and deſired. And they vnderſt<g ref="char:EOLhyphen"/>and firmly, that the aforſaid Lord and ſtates, haue had no<g ref="char:cmbAbbrStroke">̄</g>e other regard or mea<g ref="char:EOLunhyphen"/>ning in the ſame, then that once they might deliuer theſe poor oporeſſed people from ſo may miſeries and calamities, wherwith welnigh they alredy haue béen deſtroyed and ouerwhelmed, tho<g ref="char:EOLhyphen"/>rough the cruel and vnſufferable tiranny of the proud <hi>Spainish</hi> nation, and their vnlawful gouernment, by them brought in. And in y<hi rend="sup">e</hi> time to come, good order and ſure remedy as may be appointed, y<hi rend="sup">t</hi> héed after wée fall not in the like daunger, with one firm and vnuiolable maint<g ref="char:EOLhyphen"/>nance of the olde priuiledges, lawes and liberties of the lands, and that ſpecially hath been their purpoſe, with the afore<g ref="char:EOLhyphen"/>ſaid Articles to defend, in all and ouer all, the laſt pacification made and concludes in the citie o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gaunt,</hi> the 8. of Nouember laſt paſt. Such as in all their letters, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and proteſtations they haue alwaies pro<g ref="char:EOLunhyphen"/>miſed and aſſured, the ſame beeing ſurely woorthy of praiſe and commendation<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by all our poſteritie. But notwithſtanding, after that the aforeſaid Lord and Prince and ſtates of <hi>Holland</hi> &amp; <hi>Zeland</hi> had per<g ref="char:EOLhyphen"/>uſed
+<pb facs="tcp:6734:3"/> the aforeſaid Articles from point to point, according to the preſent oportu<g ref="char:EOLhyphen"/>nitie of the cauſe, and neceſſitie of the ſa<g ref="char:cmbAbbrStroke">̄</g>e, y<hi rend="sup">e</hi> which forceth the<g ref="char:cmbAbbrStroke">̄</g> to ouerlooke and way all the circumſtances, like as in the time of our forefathers, the which in the like occaſions, neuer haue left to approue and obtain of their Princes, new and commendable Priuileges. So then they haue thought that with the aforeſaid Ar<g ref="char:EOLhyphen"/>ticles, the good zeal and deſire of the afore<g ref="char:EOLhyphen"/>ſaid Lord and ſtates before mentionned: is not in all things, wholy and perfectly accompliſhed. For firſt it ſeemeth that the aforeſaid olde priuileges of the lane, the which they by all kinde of waies deſtred to haue eſtabliſhed: certain byewayes are found, which tend greatly to the a<g ref="char:EOLhyphen"/>bridging of the ſame, ſo that the power and libertie of gathering the generall ſtates togither in them to whom of olde time and right it did appertain: couertly taken away, as alſo that the ſtates of the land are bound vnto new bonds, and othes hertofore neuer vſed. Beſide the which men may euidently ſe, the mani<g ref="char:EOLhyphen"/>feſt inuiolating of the ſaid priuileges, in the vniuſt withholding of the Countie of <hi>Buren,</hi> who as all the world knoweth,
+<pb facs="tcp:6734:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:6734:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:6734:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:6734:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:6734:6"/> was taken and caried away againſt all lawe, reaſo<g ref="char:cmbAbbrStroke">̄</g>, and y<hi rend="sup">t</hi> priuileges of the afore<g ref="char:EOLhyphen"/>ſaid lands, the which ought more to haue béen conſidered of, in that at the begin<g ref="char:EOLhyphen"/>ning, the ſaid priuileges were ſo infrin<g ref="char:EOLhyphen"/>ged, and a matter which manifeſtly and ſpecially, ought to haue ſerued to the ere<g ref="char:EOLhyphen"/>cting and eſtabliſhing of the ſame, eſpeci<g ref="char:EOLhyphen"/>ally in ſéeing of one perticuler perſon the which in no one cauſe could haue offen<g ref="char:EOLhyphen"/>ded, whiche giueth ſmall hepe that the ſame heerafter ſhalbe kept, vnto the whoſe people and Cities in generall.</p>
+            <p>Againſt y<hi rend="sup">t</hi> which there ſhall lack no mat<g ref="char:EOLunhyphen"/>ter for to accuſe the<g ref="char:cmbAbbrStroke">̄</g> of crimes &amp; rebellion. Adding therto, that in this dealing is handled manifeſtly, againſt the aforſaid pacificacie of <hi>Gaunt,</hi> and for that it is a<g ref="char:EOLhyphen"/>gainſt the ſame, it tendeth to y<hi rend="sup">e</hi> ſubuerſion of the whole, wherto the aforſaid Articles ſéem to extend, the which more plainly appéereth, in that th'approbatio<g ref="char:cmbAbbrStroke">̄</g> and agrée<g ref="char:EOLunhyphen"/>ing of the ſame, in no part is ſo plaine and ſimple, as the reaſon and waight of ſuch a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace wel requireth, but wholy de<g ref="char:EOLhyphen"/>pending on certain denialis, limited and ſubmitted to an vnnumerable of deceit<g ref="char:EOLhyphen"/>ful delayes, &amp; in all béeing like the ſame which in the time of madame of <hi>Pa<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:6734:6"/> which hath cauſed this great and terrible bloodſhed, againſt the which alſo was re<g ref="char:EOLunhyphen"/>couered by the Deputie of the aforeſaid Lord, Prince and ſtates of <hi>Holland</hi> and <hi>zeland</hi> proteſtations and acts, belon<g ref="char:EOLhyphen"/>ging to the agreement wel <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eer in like effect doon by the conſent of the ſtates.</p>
+            <p>Moreouer the aforſaid Lordes, Prince and ſtates of <hi>Holland</hi> and <hi>zeland,</hi> doo finde as they vnderſtand, ſome points bee<g ref="char:EOLhyphen"/>ing ſo co<g ref="char:cmbAbbrStroke">̄</g>berſome vnto their natiue coun<g ref="char:EOLhyphen"/>trie, that they ſuppoſe the remembrance of the ſame for euer, as alſo vnto their po<g ref="char:EOLhyphen"/>ſterit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſhould be imprinted an euerlaſt<g ref="char:EOLhyphen"/>ing ſhame and ſtain vnto them, in that that we not onely ſhould haue rewarded them their wages that euercharged, and vnwoorthely vſed vs: but alſo ſhould tread in compoſition and agréement with thoſe which wee by open proclamation, and the authoritie of the King, and of the ſtates haue declared and perticulerly by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n inſtruction before t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſtates of the holy Empire, haue cauſed to be accuſed for accent Villayues &amp; Rebels, the which had made any couenants or conſpiraſies with the Spaniards. And that which is more, wée wittingly haue conſented and ſuffered them to cary out of our na<g ref="char:EOLhyphen"/>tiue
+<pb facs="tcp:6734:7"/> countrye all kinde of bag and bag<g ref="char:EOLhyphen"/>gage, out Iewels, money, goods, merchan<g ref="char:EOLunhyphen"/>diſe, and aſſeſments, without any gain<g ref="char:EOLhyphen"/>ſaying. Moreouer the aforeſaid Lords, Prince and ſtates of <hi>Holland</hi> and <hi>zela<g ref="char:cmbAbbrStroke">̄</g>d</hi> do think, y<hi rend="sup">t</hi> there is not ſufficie<g ref="char:cmbAbbrStroke">̄</g>tly ſee<g ref="char:cmbAbbrStroke">̄</g> and neuer wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed y<hi rend="sup">e</hi> reſpect, honour and thank<g ref="char:EOLhyphen"/>fulnes that we owe to the right noble and moſte mightie Quéene of England, as alſo vnto my Lord the Duke, and bro<g ref="char:EOLhyphen"/>ther to the King of Fraunce, the whiche haue ſhewed their redines w<hi rend="sup">t</hi> their whole good wil in helping vs with their goods, in pulling vs out from the oppreſſions and ſlauery, wherin we fou<g ref="char:cmbAbbrStroke">̄</g>d our ſelues as the<g ref="char:cmbAbbrStroke">̄</g> agréeued. Therfore reaſon woulde haue required, that they ſhould haue béen therin comprehended with plain and ho<g ref="char:EOLhyphen"/>norable ſpéeches. And laſtly wée doo not finde in the afforeſaid Articles, that the inhabitants of <hi>Holland</hi> &amp; <hi>zeland,</hi> were prouided for with any aſſurance, altho<g ref="char:EOLhyphen"/>ugh in the laſt handling of the peace at <hi>Breda,</hi> many neceſſary and reſonable a<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ances were preſented, &amp; as ſhould haue béen alſo doon the laſt time when they handled of the peace at <hi>Gaunt.</hi> If ſo bée that their deputeds, ſo wel with their mouthes as with their writings, did de<g ref="char:EOLhyphen"/>clare, that they in no manner of wayes,
+<pb facs="tcp:6734:7"/> underſtood to handle with any other then with the ſtates them ſelues: they would haue ſhewed, how they on their ſide, walked in good trueth, proteſting if their meaning had béen to haue receiued <hi>Don Iohn,</hi> &amp; y<hi rend="sup">t</hi> they muſt haue tractated with him in that ſorte as they now doo: they would haue required other aſſurances, ſuch as reaſon &amp; the occaſion of the cauſe ſhould haue required. And in theſe Arti<g ref="char:EOLhyphen"/>cles is not onely one aſſura<g ref="char:cmbAbbrStroke">̄</g>ce, but alſo no mention made of the perticulers, by ſub<g ref="char:EOLhyphen"/>ſtituting them wholy in to their owne a<g ref="char:EOLhyphen"/>gain, touching their gods, ſtates, and go<g ref="char:EOLhyphen"/>uernments, the which they haue in di<g ref="char:EOLhyphen"/>uers plates ouer on this ſide, as alſo in the countrie of <hi>Bourgoingen,</hi> the which neuertheles folowing the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the paci<g ref="char:EOLhyphen"/>ficacie, the which at that ſome time was not ha<g ref="char:cmbAbbrStroke">̄</g>dled there w<hi rend="sup">t</hi> the generall ſtates of the lands ouer on this ſide, and ouer theſe with expreſſe woords might not be ſpeci<g ref="char:EOLhyphen"/>fied, accerding to all reaſon ought wel to haue been prouided for, and that is more they can p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rceiue none aſſurance in the aforeſaid Articles. Alſo for the other pro<g ref="char:EOLhyphen"/>uinces, and all the poore common people o<g ref="char:EOLunhyphen"/>uer on this ſide, ſeeing that neither of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng of holdes or Caſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls (out of y<hi rend="sup">e</hi> which
+<pb facs="tcp:6734:8"/> as it is wel knowe<g ref="char:cmbAbbrStroke">̄</g> vnto euery one, much euil is chaunced) as is not once touched or expreſſed, neither alſo pronounced any perticulers, nor declarings of the ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſnes therin once mencioned, the which vnto the common people cannot be otherwiſe but ſuſpition, the which o<g ref="char:EOLhyphen"/>penly, and now in the laſt departure vnto this preſent hath béene threatned, be<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing therfore truly good aſſurance for the time to come when as the la<g ref="char:cmbAbbrStroke">̄</g>d ſhalbée vn<g ref="char:EOLunhyphen"/>weaponed, and <hi>Don Iohn</hi> eſtabliſhed in the authoritie, and gouernment if it were but the view of the'ramples of the times paſt. But it ſeemeth to the co<g ref="char:cmbAbbrStroke">̄</g>trary that the ſtates ſhalbe ioyned with ſuch go<g ref="char:EOLhyphen"/>uernours, as ſhalbe to their contentation for this time, as if they ment heerafter to take fro<g ref="char:cmbAbbrStroke">̄</g> the<g ref="char:cmbAbbrStroke">̄</g> al mea<g ref="char:cmbAbbrStroke">̄</g>es wherby they might holde them ſelues aſſured againſt the euil intent of ſuch as they appointe to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their gouernours.</p>
+            <p>To make ſhort, there were many other ſuch Articles, which after they thought of the aforeſaid Lord Prince and ſtates of <hi>Holla<g ref="char:cmbAbbrStroke">̄</g>d</hi> and <hi>zeland</hi> ought <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el to haue béen ouerſeen and marked, it was ther<g ref="char:EOLhyphen"/>fore their purpoſe, to put in writing all the ſame, and to ſend it euer to the afore<g ref="char:EOLhyphen"/>ſaid
+<pb facs="tcp:6734:8"/> Lord and ſtates, and onely to declare vnto them that it was now the time, fo<g ref="char:EOLhyphen"/>lowing the footſteps of our progenitors, to requeſt, folowe and obtain the increaſing and multiplying of the priuileges, lawes and liberties, left vnto vs by them. And ſpecially hauing therunto ſo good an occa<g ref="char:EOLhyphen"/>ſion and oportunitie, that we fall not a<g ref="char:EOLhyphen"/>gain in to the like calamitie. But when as they were buſie in drawing the afore<g ref="char:EOLhyphen"/>ſaid, pointes and articles and to put them in writing, to the end as before, there is come to their bands the copie of the mi<g ref="char:EOLhyphen"/>ſſiue which the aforſaid Lord and ſtates, had written vnto y<hi rend="sup">e</hi> aforeſaid <hi>Don Iohn,</hi> out of y<hi rend="sup">e</hi> which they haue vnderſtood, y<hi rend="sup">t</hi> the forſaid Lord and ſtates, haue promiſed, without any tarying for aunſwere vp<g ref="char:EOLhyphen"/>pon the ſaid Articles, to conclude with the ſaid <hi>Don Iohn,</hi> and to require him to ſubſcribe the ſame Articles, with promiſe to cauſe them to be publiſhed, and to re<g ref="char:EOLhyphen"/>ceiue him in to the countrey wherof the a<g ref="char:EOLhyphen"/>foreſaid Lord, Prince and ſtates of <hi>Hol<g ref="char:EOLunhyphen"/>la<g ref="char:cmbAbbrStroke">̄</g>d</hi> and <hi>zela<g ref="char:cmbAbbrStroke">̄</g>d</hi> haue wundred much, ſeeing ſuch a chaunge, perceiuing y<hi rend="sup">t</hi> the date of the<g ref="char:cmbAbbrStroke">̄</g> aforeſaid miſſiue welnigh was of y<hi rend="sup">e</hi> ſa<g ref="char:cmbAbbrStroke">̄</g>e time (ſo as they ſhortly after came vnto t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir hands) that the aforſaid Lord of
+<pb facs="tcp:6734:9"/> 
+               <hi>VVilleruall,</hi> was come vnto them, for a<g ref="char:EOLhyphen"/>booue the contrarieties which they found in this dealing, they alſo thought that the haſtines of a cauſe of ſo great a co<g ref="char:cmbAbbrStroke">̄</g>ſeque<g ref="char:cmbAbbrStroke">̄</g>ce wheron the whole welfare, or deſtruction of al theſe lowe countries dooth hang: was much abridged, though notwithſtanding, foraſmuch as they holde and firmly be<g ref="char:EOLhyphen"/>léeue the ſame to be chaunced, to deliuer their natiue countries the ſooner from th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spaniards, and other ſtrange oppreſſors, ſo the<g ref="char:cmbAbbrStroke">̄</g> they can doo none other but wiſh (as they doo from the bottome of their harts, and pray vnto the Lord God) that the e<g ref="char:EOLhyphen"/>uent and end may be ſuch as all thoſe which are true ſooners of their natiue countries doo deſire. And ſomuch as apper<g ref="char:EOLhyphen"/>taineth vnto them, foraſmuch as it were now in vain to vſe many reaſo<g ref="char:cmbAbbrStroke">̄</g>s to y<hi rend="sup">e</hi> con<g ref="char:EOLhyphen"/>trary, or to debate or gainſay a cauſe or matter beeing doon. They doo promiſe and aſſure the aforeſaid Lords and ſtates, that they wil maintain y<hi rend="sup">e</hi> peace of <hi>Gaunt</hi> by all manner of wayes, hoping that the meaning of the ſaid Lord and ſtates is ſure alſo, beſéeching them, that they in all miſhaps wil ſhewe them ſelues in their déedꝭ to be ſuch, as they on their ſide at all times are ready to doo. Neuertheles, that
+<pb facs="tcp:6734:9"/> men may plainly ſée with their déeds, that they deſire nought els<g ref="char:punc">▪</g> but to fur<g ref="char:EOLhyphen"/>ther the departure of the Spaniards, and other ſtraungers, and confirm the peace and quietnes, with their olde priuileges, lawes and liberties of the lands, they are contented to commend and ſubſcribe vn<g ref="char:EOLhyphen"/>to the aforeſaid Articles confirmably and with condition, that the ſaid Lords and ſtates, firſt and before all others it may pleaſe them, firmly and vnchaungeably to conclude, and to deliuer to them ſu<g ref="char:EOLhyphen"/>fficient and fourmable acts and obligato<g ref="char:EOLhyphen"/>rie, ſubſcribed by the Lords, ſtates, and gouernours, heds and coloneled of the prouinces, that if ſobee that the Spani<g ref="char:EOLhyphen"/>ards, according to the order taken and ap<g ref="char:EOLunhyphen"/>pointed with <hi>Don Iohn,</hi> be not departed out of the land<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ouer on this ſide, in déed and trueth, and that in ſuch time as to them is appointed. For to beware once of ſuch lingring and delayes, the which con<g ref="char:EOLhyphen"/>tinually vnto this time, haue been ſo hurtful vnto vs, the forſaid Lords &amp; ſtates ſhall break and cut of all former comunica<g ref="char:EOLunhyphen"/>tion with them, and purſu them with we<g ref="char:EOLhyphen"/>pon in their former departure, without a<g ref="char:EOLunhyphen"/>ny more heerafter to ſtand or deale with them by way of communication, howſoe<g ref="char:EOLhyphen"/>uer
+<pb facs="tcp:6734:10"/> the ſame might bée, and allſo that it may pleaſe them again, to deliuer acts and bo<g ref="char:cmbAbbrStroke">̄</g>ds, that after the aforeſaid depar<g ref="char:EOLhyphen"/>ture, neither they nor the aforſaid gouer<g ref="char:EOLhyphen"/>nours, heads and collonels, ſhall receiue, ſuffer or acknowledge y<hi rend="sup">t</hi> ſaid <hi>Do<g ref="char:cmbAbbrStroke">̄</g> Iohn,</hi> nor any other for gouernour of y<hi rend="sup">e</hi> land, before y<hi rend="sup">t</hi> he ſhal haue erected and wholy ſatiſfied a<g ref="char:EOLhyphen"/>gain, in all points which ſtriue any waies or are co<g ref="char:cmbAbbrStroke">̄</g>trary to the aforeſaid priuileges, lawes and liberties of the land, or any wayes preiudice vnto the pacificacie of <hi>Gaunt,</hi> folowing all this and that euery one ſhalbe ſet and appointed in their goods again, aſwel in <hi>Burgo<g ref="char:cmbAbbrStroke">̄</g>yen</hi> as ouer on this ſide &amp; that all the aforſaid priuileges, &amp; li<g ref="char:EOLhyphen"/>berties, ſhalbe confirmed, ratified &amp; eſtabli<g ref="char:EOLunhyphen"/>ſhed, following the ſame: with the afore<g ref="char:EOLhyphen"/>ſaid L. &amp; eſtates, in the time of the hand<g ref="char:EOLhyphen"/>ling of the peace at <hi>Gaunt:</hi> ſole<g ref="char:cmbAbbrStroke">̄</g>nly did pro<g ref="char:EOLunhyphen"/>miſe by their writings, to their Deputed<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the Date of the 24. of October. 1576.</p>
+            <closer>
+               <dateline>Doon at Middelborough <date>the 19. of February. 1577.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:6734:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
